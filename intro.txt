@@ -1,0 +1,7 @@
+git is a version control tool.we use git to store the code.
+
+Repository is like a folder.
+
+Every branch will haveone HEAD and this HEAD will always points to its latest commits
+
+
