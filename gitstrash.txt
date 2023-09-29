@@ -1,0 +1,2 @@
+when we give git strash the file no longer appear in the working directory. strash means when a developer runs the git strash command,git stores all the changes in a stash and resets the state of workspace to its prior commit state.
+
